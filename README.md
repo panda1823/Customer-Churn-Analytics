@@ -52,6 +52,11 @@ Seaborn
 - Fiber internet users show higher churn probability
 - Customers with shorter tenure are more likely to leave
 
+
+## Dashboard Preview
+
+<img width="1280" height="757" alt="image" src="https://github.com/user-attachments/assets/7827ab69-3100-4fbb-b487-af6921d1dc13" />
+
 ## Business Impact
 
 This dashboard helps identify churn-prone customer segments and supports decision-making for retention strategies such as contract upgrades and pricing optimization.
